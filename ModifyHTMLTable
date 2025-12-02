@@ -1,0 +1,1 @@
+replace(body('Create_HTML_table'),'<table>','<table align="center" style="width:94%;max-width:600px;text-align:left;font-family:Arial,sans-serif;font-size:16px;line-height:22px;color:#363636;">')
